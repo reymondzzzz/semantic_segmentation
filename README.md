@@ -9,6 +9,8 @@ https://docs.google.com/presentation/d/1EYM16CJTKftAKbrbMY6IFNIdGjWb_t-W4jnx45S_
 * VGG Segnet
 * VGG U-Net
 
+[Graphs Models](https://github.com/reymondzzzz/semantic_segmentation/tree/master/graph_models)
+
 ## Getting Started
 
 ### Prerequisites
