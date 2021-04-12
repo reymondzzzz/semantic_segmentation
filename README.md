@@ -1,8 +1,5 @@
 # Image Segmentation
 
-## Link to presentation
-https://docs.google.com/presentation/d/1EYM16CJTKftAKbrbMY6IFNIdGjWb_t-W4jnx45S_jxM/edit#slide=id.p
-
 ## Models
 
 * FCN32
